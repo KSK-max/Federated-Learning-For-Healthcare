@@ -4,6 +4,7 @@ This repository contains code for two different machine learning tasks: federate
 Federated-Learning-For-Healthcare/Federated Deep Learning/ & Federated-Learning-For-Healthcare/Federated Logistic Regression/
 
 The following files are included:
+
 server.py: This file is used to aggregate the model weights from multiple clients and run federated learning.
 
 client1.py and client2.py: These files are used to fetch the dataset, train the model, and update the weights and parameters. 
